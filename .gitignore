@@ -12,10 +12,10 @@ yarn-error.log*
 
 # Environment variables
 .env
-
+abc
 # VS Code
 .vscode/
-
+abc.js
 # MacOS
 .DS_Store
 
